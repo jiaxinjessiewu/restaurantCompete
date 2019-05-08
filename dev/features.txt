@@ -1,0 +1,145 @@
+Features: For each feature you implement, move to the Implemented section and
+explain who did it (utorid) and how you did it. You can consider these as 
+almost user stories, if you just add a bit to them. Add more features/user stories at the bottom.
+Move them up when completed.
+
+------------------------------------------------------------------------------------
+Implemented: 
+------------------------------------------------------------------------------------
+0) Login
+   Done by: arnold
+   Explanation: created schema, including appuser table, populated with 
+   default user. Also created handler for login state as well as login page.
+
+------------------------------------------------------------------------------------
+Unimplemented:
+------------------------------------------------------------------------------------
+01) User never votes twice on the same pair
+    Done by: UTORID 
+    Explanation: 
+
+02) Page token: Reload button does not cause incorrect vote, that is reload presents
+   expired message and new page presented
+    Done by: UTORID 
+    Explanation: 
+
+03) Page token: Back button not allowed, that is old submission prevented
+    Done by: UTORID 
+    Explanation: 
+
+04) Excellent use of MVC
+    Done by: UTORID 
+    Explanation: 
+
+05) Insecure direct object references prevented, don't need object id's on the page
+    Done by: UTORID 
+    Explanation: 
+
+06) Good schema
+    Done by: UTORID 
+    Explanation: 
+
+07) Summary screen presents list of restaurants and their current ranking
+    Done by: UTORID 
+    Explanation: 
+
+08) Summary screen presents some notion of velocity for each restaurant, for example
+   velocity over the past few ratings, velocity over the past few minutes.
+   Users see which restaurants are moving in the ratings fastest.
+    Done by: UTORID 
+    Explanation: 
+
+09) Summary screen automatically updates every once in a while.
+    Done by: UTORID 
+    Explanation: 
+
+10) Good implementation of navigation in the controller.
+    Done by: UTORID 
+    Explanation: 
+
+11) User profile has lots of interesting inputs
+    Done by: UTORID 
+    Explanation: 
+
+12) Invalid form submission triggers page reload with form still filled in
+    as well as good error messages.
+    Done by: UTORID 
+    Explanation: 
+
+13) All user inputs whitelisted on the backend, whether checked on the front
+    or not.
+    Done by: UTORID 
+    Explanation: 
+
+14) Good use of HTML5 form fields for form validation.
+    Done by: UTORID 
+    Explanation: 
+
+15) User profile can be visited for the first time (on registration),
+    on error, and on update in which case it is pre-loaded with
+    appropriate fields.
+    Done by: UTORID 
+    Explanation: 
+
+16) Good use of sql
+    Done by: UTORID 
+    Explanation: 
+
+17) Wins vs losses vs ties on results page
+    Done by: UTORID 
+    Explanation: 
+
+18) Navigation highlights which page they are on
+    Done by: UTORID 
+    Explanation: 
+
+19) Require user to answer 10 (for example) before they can see results
+    Done by: UTORID 
+    Explanation: 
+
+20) Add in option for tie or ‘I don’t know’ instead of just one wins etc.
+    Done by: UTORID 
+    Explanation: 
+
+21) Smarter choice of pairs, so for example, restaurants compete with ‘closely rated’ other restaurants. (Is this better?)
+    Done by: UTORID 
+    Explanation: 
+
+22) Good use of session
+    Done by: UTORID 
+    Explanation: 
+
+23) Good use of transactions as appropriate. Note: You can put a begin/commit block in a try/catch to simplify transaction exception handling. 
+    Done by: UTORID 
+    Explanation: 
+
+Add more user stories below... move them up when done
+
+25) Description: 
+    Done by: UTORID 
+    Explanation: 
+
+26) Description: 
+    Done by: UTORID 
+    Explanation: 
+
+27) Description: 
+    Done by: UTORID 
+    Explanation: 
+
+28) Description: 
+    Done by: UTORID 
+    Explanation: 
+
+29) Description: 
+    Done by: UTORID 
+    Explanation: 
+
+30) Description: 
+    Done by: UTORID 
+    Explanation: 
+
+31) Description: 
+    Done by: UTORID 
+    Explanation: 
+
