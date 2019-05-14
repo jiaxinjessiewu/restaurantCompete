@@ -1,5 +1,0 @@
-Version 0.9
-
-Todo: Verify that this installs properly on students accounts
-
-
